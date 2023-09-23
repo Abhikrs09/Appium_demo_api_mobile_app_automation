@@ -1,0 +1,178 @@
+[INFO ] 2023-02-04 01:49:43.903 [main] basePage - Click on Continue To allow some access
+[INFO ] 2023-02-04 01:49:45.106 [main] basePage - Click on Ok to open the Homescreen
+[INFO ] 2023-02-04 01:49:46.519 [main] basePage - Click on App button
+[INFO ] 2023-02-04 01:49:47.434 [main] basePage - Select Activity button
+[INFO ] 2023-02-04 01:49:48.583 [main] basePage - Choose Custom Title
+[INFO ] 2023-02-04 01:49:48.684 [main] basePage - Click change left button
+[INFO ] 2023-02-04 01:49:49.251 [main] basePage - Click change right button
+[INFO ] 2023-02-04 01:49:49.776 [main] basePage - verify the left title
+[INFO ] 2023-02-04 01:49:49.818 [main] basePage - verify the right title
+[INFO ] 2023-02-04 01:56:54.954 [main] basePage - Click on Continue To allow some access
+[INFO ] 2023-02-04 01:56:57.123 [main] basePage - Click on Ok to open the Homescreen
+[INFO ] 2023-02-04 01:56:58.894 [main] basePage - Click on App button
+[INFO ] 2023-02-04 01:57:51.278 [main] basePage - Click on Continue To allow some access
+[INFO ] 2023-02-04 01:57:52.812 [main] basePage - Click on Ok to open the Homescreen
+[INFO ] 2023-02-04 01:57:54.475 [main] basePage - Click on Text otpion
+[INFO ] 2023-02-04 01:58:15.162 [main] basePage - Click on Continue To allow some access
+[INFO ] 2023-02-04 01:58:16.064 [main] basePage - Click on Ok to open the Homescreen
+[INFO ] 2023-02-04 01:58:17.627 [main] basePage - Click on OS otpion
+[INFO ] 2023-02-04 01:58:47.578 [main] basePage - Click on Continue To allow some access
+[INFO ] 2023-02-04 01:58:48.964 [main] basePage - Click on Ok to open the Homescreen
+[INFO ] 2023-02-04 01:58:50.805 [main] basePage - Click on Views button
+[INFO ] 2023-02-04 01:58:52.032 [main] basePage - select date widgets
+[INFO ] 2023-02-04 01:58:53.510 [main] basePage - choose Dialog option
+[INFO ] 2023-02-04 01:58:53.611 [main] basePage - click on change the date button
+[INFO ] 2023-02-04 01:58:55.509 [main] basePage - select the desired time
+[INFO ] 2023-02-04 01:58:55.660 [main] basePage - click on ok to submit
+[INFO ] 2023-02-04 01:58:56.222 [main] basePage - Verify that the date is displayed or not
+[INFO ] 2023-02-04 01:59:08.924 [main] basePage - Click on Continue To allow some access
+[INFO ] 2023-02-04 01:59:10.007 [main] basePage - Click on Ok to open the Homescreen
+[INFO ] 2023-02-04 01:59:11.658 [main] basePage - Click on Views button
+[INFO ] 2023-02-04 01:59:12.686 [main] basePage - select date widgets
+[INFO ] 2023-02-04 01:59:13.549 [main] basePage - choose Dialog option
+[INFO ] 2023-02-04 01:59:13.646 [main] basePage - click on change the time
+[INFO ] 2023-02-04 01:59:14.604 [main] basePage - select the desired hour
+[INFO ] 2023-02-04 01:59:15.231 [main] basePage - select the desired min
+[INFO ] 2023-02-04 01:59:15.798 [main] basePage - select am or pm
+[INFO ] 2023-02-04 01:59:16.355 [main] basePage - click on ok button
+[INFO ] 2023-02-04 01:59:16.910 [main] basePage - verify that the time is displayed or not
+[INFO ] 2023-02-04 01:59:27.284 [main] basePage - Click on Continue To allow some access
+[INFO ] 2023-02-04 01:59:28.372 [main] basePage - Click on Ok to open the Homescreen
+[INFO ] 2023-02-04 01:59:30.016 [main] basePage - Select view option from HomeScreen
+[INFO ] 2023-02-04 01:59:31.420 [main] basePage - Scroll down the options
+[INFO ] 2023-02-04 01:59:32.844 [main] basePage - Click on Radio Group
+[INFO ] 2023-02-04 02:01:29.373 [main] basePage - Click on Continue To allow some access
+[INFO ] 2023-02-04 02:01:30.442 [main] basePage - Click on Ok to open the Homescreen
+[INFO ] 2023-02-04 02:01:32.073 [main] basePage - Click on Text otpion
+[INFO ] 2023-02-04 02:01:32.949 [main] basePage - Select LogTextBox
+[INFO ] 2023-02-04 02:01:33.075 [main] basePage - Press Add
+[INFO ] 2023-02-04 02:05:16.352 [main] basePage - Click on Continue To allow some access
+[INFO ] 2023-02-04 02:05:17.323 [main] basePage - Click on Ok to open the Homescreen
+[INFO ] 2023-02-04 02:05:19.065 [main] basePage - Click on Text otpion
+[INFO ] 2023-02-04 02:05:19.948 [main] basePage - Select LogTextBox
+[INFO ] 2023-02-04 02:05:20.064 [main] basePage - Press Add
+[INFO ] 2023-02-04 02:06:47.055 [main] basePage - Click on Continue To allow some access
+[INFO ] 2023-02-04 02:06:48.078 [main] basePage - Click on Ok to open the Homescreen
+[INFO ] 2023-02-04 02:06:49.721 [main] basePage - Click on Text otpion
+[INFO ] 2023-02-04 02:06:50.571 [main] basePage - Select LogTextBox
+[INFO ] 2023-02-04 02:06:50.701 [main] basePage - Press Add
+[INFO ] 2023-02-04 13:51:17.674 [main] basePage - ********** LogTextBox Logs **********
+[INFO ] 2023-02-04 13:51:18.289 [main] basePage - Click on Continue To allow some access
+[INFO ] 2023-02-04 13:51:21.394 [main] basePage - Click on Ok to open the Homescreen
+[INFO ] 2023-02-04 13:51:21.396 [main] basePage - ********** App Page Logs **********
+[INFO ] 2023-02-04 13:51:23.556 [main] basePage - Click on App button
+[INFO ] 2023-02-04 13:51:25.627 [main] basePage - Select Activity button
+[INFO ] 2023-02-04 13:51:27.182 [main] basePage - Choose Custom Title
+[INFO ] 2023-02-04 13:51:27.415 [main] basePage - Click change left button
+[INFO ] 2023-02-04 13:51:28.710 [main] basePage - Click change right button
+[INFO ] 2023-02-04 13:51:29.304 [main] basePage - verify the left title
+[INFO ] 2023-02-04 13:51:29.523 [main] basePage - verify the right title
+[INFO ] 2023-02-04 13:51:59.042 [main] basePage - ********** LogTextBox Logs **********
+[INFO ] 2023-02-04 13:51:59.484 [main] basePage - Click on Continue To allow some access
+[INFO ] 2023-02-04 13:52:01.715 [main] basePage - Click on Ok to open the Homescreen
+[INFO ] 2023-02-04 13:52:02.955 [main] basePage - Click on Text otpion
+[INFO ] 2023-02-04 13:52:25.096 [main] basePage - ********** LogTextBox Logs **********
+[INFO ] 2023-02-04 13:52:25.491 [main] basePage - Click on Continue To allow some access
+[INFO ] 2023-02-04 13:52:26.633 [main] basePage - Click on Ok to open the Homescreen
+[INFO ] 2023-02-04 13:52:26.637 [main] basePage - ********** Os Page Logs **********
+[INFO ] 2023-02-04 13:52:28.853 [main] basePage - Click on OS otpion
+[INFO ] 2023-02-04 13:52:30.387 [main] basePage - Select SMS Messaging button
+[INFO ] 2023-02-04 13:52:32.147 [main] basePage - Enter the Recipient phone number
+[INFO ] 2023-02-04 13:52:33.379 [main] basePage - Enter the Message Body
+[INFO ] 2023-02-04 13:52:33.958 [main] basePage - Click on send button
+[INFO ] 2023-02-04 13:52:34.660 [main] basePage - verify that msg is sent or not
+[INFO ] 2023-02-04 13:52:52.878 [main] basePage - ********** LogTextBox Logs **********
+[INFO ] 2023-02-04 13:52:53.337 [main] basePage - Click on Continue To allow some access
+[INFO ] 2023-02-04 13:52:54.490 [main] basePage - Click on Ok to open the Homescreen
+[INFO ] 2023-02-04 13:52:54.491 [main] basePage - ********** View date Time Logs **********
+[INFO ] 2023-02-04 13:52:56.812 [main] basePage - Click on Views button
+[INFO ] 2023-02-04 13:52:57.917 [main] basePage - select date widgets
+[INFO ] 2023-02-04 13:52:58.797 [main] basePage - choose Dialog option
+[INFO ] 2023-02-04 13:52:58.902 [main] basePage - click on change the date button
+[INFO ] 2023-02-04 13:53:01.293 [main] basePage - select the desired time
+[INFO ] 2023-02-04 13:53:01.481 [main] basePage - click on ok to submit
+[INFO ] 2023-02-04 13:53:02.052 [main] basePage - Verify that the date is displayed or not
+[INFO ] 2023-02-04 13:53:18.396 [main] basePage - ********** LogTextBox Logs **********
+[INFO ] 2023-02-04 13:53:18.808 [main] basePage - Click on Continue To allow some access
+[INFO ] 2023-02-04 13:53:20.143 [main] basePage - Click on Ok to open the Homescreen
+[INFO ] 2023-02-04 13:53:20.143 [main] basePage - ********** View date Time Logs **********
+[INFO ] 2023-02-04 13:53:22.055 [main] basePage - Click on Views button
+[INFO ] 2023-02-04 13:53:23.155 [main] basePage - select date widgets
+[INFO ] 2023-02-04 13:53:24.036 [main] basePage - choose Dialog option
+[INFO ] 2023-02-04 13:53:24.122 [main] basePage - click on change the time
+[INFO ] 2023-02-04 13:53:25.159 [main] basePage - select the desired hour
+[INFO ] 2023-02-04 13:53:25.854 [main] basePage - select the desired min
+[INFO ] 2023-02-04 13:53:26.404 [main] basePage - select am or pm
+[INFO ] 2023-02-04 13:53:26.951 [main] basePage - click on ok button
+[INFO ] 2023-02-04 13:53:27.507 [main] basePage - verify that the time is displayed or not
+[INFO ] 2023-02-04 13:53:40.870 [main] basePage - ********** LogTextBox Logs **********
+[INFO ] 2023-02-04 13:53:41.404 [main] basePage - Click on Continue To allow some access
+[INFO ] 2023-02-04 13:53:42.395 [main] basePage - Click on Ok to open the Homescreen
+[INFO ] 2023-02-04 13:53:42.396 [main] basePage - ********** view imageSwitcher Logs **********
+[INFO ] 2023-02-04 13:53:43.813 [main] basePage - Select view option from HomeScreen
+[INFO ] 2023-02-04 13:53:45.145 [main] basePage - Scroll down the options
+[INFO ] 2023-02-04 13:53:46.392 [main] basePage - Click on Radio Group
+[INFO ] 2023-02-04 18:47:36.841 [main] basePage - ********** LogTextBox Logs **********
+[INFO ] 2023-02-04 18:47:37.081 [main] basePage - Click on Continue To allow some access
+[INFO ] 2023-02-04 18:47:38.098 [main] basePage - Click on Ok to open the Homescreen
+[INFO ] 2023-02-04 18:47:39.731 [main] basePage - Click on Text otpion
+[INFO ] 2023-02-04 18:47:40.625 [main] basePage - Select LogTextBox
+[INFO ] 2023-02-04 18:47:40.719 [main] basePage - Press Add
+[INFO ] 2023-02-04 19:21:53.936 [main] basePage - ********** LogTextBox Logs **********
+[INFO ] 2023-02-04 19:21:54.111 [main] basePage - Click on Continue To allow some access
+[INFO ] 2023-02-04 19:21:55.154 [main] basePage - Click on Ok to open the Homescreen
+[INFO ] 2023-02-04 19:21:55.154 [main] basePage - ********** App Page Logs **********
+[INFO ] 2023-02-04 19:21:56.836 [main] basePage - Click on App button
+[INFO ] 2023-02-04 19:21:57.848 [main] basePage - Select Activity button
+[INFO ] 2023-02-04 19:21:59.303 [main] basePage - Choose Custom Title
+[INFO ] 2023-02-04 19:21:59.972 [main] basePage - Click change left button
+[INFO ] 2023-02-04 19:22:01.045 [main] basePage - Click change right button
+[INFO ] 2023-02-04 19:22:01.141 [main] basePage - verify the left title
+[INFO ] 2023-02-04 19:22:01.201 [main] basePage - verify the right title
+[INFO ] 2023-02-04 19:22:12.577 [main] basePage - ********** LogTextBox Logs **********
+[INFO ] 2023-02-04 19:22:13.148 [main] basePage - Click on Continue To allow some access
+[INFO ] 2023-02-04 19:22:14.167 [main] basePage - Click on Ok to open the Homescreen
+[INFO ] 2023-02-04 19:22:15.684 [main] basePage - Click on Text otpion
+[INFO ] 2023-02-04 19:22:16.544 [main] basePage - Select LogTextBox
+[INFO ] 2023-02-04 19:22:16.638 [main] basePage - Press Add
+[INFO ] 2023-02-04 19:22:27.139 [main] basePage - ********** LogTextBox Logs **********
+[INFO ] 2023-02-04 19:22:27.727 [main] basePage - Click on Continue To allow some access
+[INFO ] 2023-02-04 19:22:28.837 [main] basePage - Click on Ok to open the Homescreen
+[INFO ] 2023-02-04 19:22:28.839 [main] basePage - ********** Os Page Logs **********
+[INFO ] 2023-02-04 19:22:30.214 [main] basePage - Click on OS otpion
+[INFO ] 2023-02-04 19:22:31.220 [main] basePage - Select SMS Messaging button
+[INFO ] 2023-02-04 19:22:32.582 [main] basePage - Enter the Recipient phone number
+[INFO ] 2023-02-04 19:22:33.783 [main] basePage - Enter the Message Body
+[INFO ] 2023-02-04 19:22:34.346 [main] basePage - Click on send button
+[INFO ] 2023-02-04 19:22:35.238 [main] basePage - verify that msg is sent or not
+[INFO ] 2023-02-04 19:22:47.016 [main] basePage - ********** LogTextBox Logs **********
+[INFO ] 2023-02-04 19:22:47.577 [main] basePage - Click on Continue To allow some access
+[INFO ] 2023-02-04 19:22:48.591 [main] basePage - Click on Ok to open the Homescreen
+[INFO ] 2023-02-04 19:22:48.591 [main] basePage - ********** View date Time Logs **********
+[INFO ] 2023-02-04 19:22:50.143 [main] basePage - Click on Views button
+[INFO ] 2023-02-04 19:22:51.192 [main] basePage - select date widgets
+[INFO ] 2023-02-04 19:22:51.993 [main] basePage - choose Dialog option
+[INFO ] 2023-02-04 19:22:52.074 [main] basePage - click on change the date button
+[INFO ] 2023-02-04 19:22:53.751 [main] basePage - select the desired time
+[INFO ] 2023-02-04 19:22:54.093 [main] basePage - click on ok to submit
+[INFO ] 2023-02-04 19:22:54.650 [main] basePage - Verify that the date is displayed or not
+[INFO ] 2023-02-04 19:23:05.443 [main] basePage - ********** LogTextBox Logs **********
+[INFO ] 2023-02-04 19:23:05.974 [main] basePage - Click on Continue To allow some access
+[INFO ] 2023-02-04 19:23:07.184 [main] basePage - Click on Ok to open the Homescreen
+[INFO ] 2023-02-04 19:23:07.184 [main] basePage - ********** View date Time Logs **********
+[INFO ] 2023-02-04 19:23:08.915 [main] basePage - Click on Views button
+[INFO ] 2023-02-04 19:23:09.907 [main] basePage - select date widgets
+[INFO ] 2023-02-04 19:23:10.755 [main] basePage - choose Dialog option
+[INFO ] 2023-02-04 19:23:10.867 [main] basePage - click on change the time
+[INFO ] 2023-02-04 19:23:11.797 [main] basePage - select the desired hour
+[INFO ] 2023-02-04 19:23:12.473 [main] basePage - select the desired min
+[INFO ] 2023-02-04 19:23:13.059 [main] basePage - select am or pm
+[INFO ] 2023-02-04 19:23:13.649 [main] basePage - click on ok button
+[INFO ] 2023-02-04 19:23:14.234 [main] basePage - verify that the time is displayed or not
+[INFO ] 2023-02-04 19:23:24.218 [main] basePage - ********** LogTextBox Logs **********
+[INFO ] 2023-02-04 19:23:24.790 [main] basePage - Click on Continue To allow some access
+[INFO ] 2023-02-04 19:23:25.864 [main] basePage - Click on Ok to open the Homescreen
+[INFO ] 2023-02-04 19:23:25.865 [main] basePage - ********** view imageSwitcher Logs **********
+[INFO ] 2023-02-04 19:23:27.362 [main] basePage - Select view option from HomeScreen
+[INFO ] 2023-02-04 19:23:28.709 [main] basePage - Scroll down the options
+[INFO ] 2023-02-04 19:23:30.063 [main] basePage - Click on Radio Group

@@ -1,0 +1,12 @@
+Screens\HomeScreen.class
+Screens\view_date_time_page.class
+BasePackage\basePage.class
+Screens\app_page.class
+Utilities\ReadingFileProperties.class
+Screens\view_imageSwitcher_page.class
+Utilities\ScreenShots.class
+Screens\Animation_page.class
+Utilities\ExtentManager.class
+Screens\os_page.class
+Utilities\DriverFactory.class
+Utilities\ExcelLibrary.class

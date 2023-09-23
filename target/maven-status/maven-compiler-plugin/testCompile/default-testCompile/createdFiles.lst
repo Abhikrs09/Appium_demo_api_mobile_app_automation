@@ -1,0 +1,8 @@
+StepDefinitions\view_imageSwitcher_steps.class
+StepDefinitions\Hooks.class
+RunnerAndroid\TestRunner.class
+StepDefinitions\app_page_steps_def.class
+StepDefinitions\Animation_page_steps.class
+StepDefinitions\view_date_time_steps.class
+StepDefinitions\os_page_steps.class
+StepDefinitions\logTextBox_def.class
